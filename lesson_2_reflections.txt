@@ -5,11 +5,11 @@ How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 The staging are reminds me of a buffer, allows rethinking
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+by double checking before committing what has been assigned to the staging area and comparing it with diff to the most recent commit
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When I want to change my code design but not sure about the outcome
 
 How do the diagrams help you visualize the branch structure?
 

@@ -12,6 +12,7 @@ What are some situations when branches would be helpful in keeping your history 
 When I want to change my code design but not sure about the outcome
 
 How do the diagrams help you visualize the branch structure?
+Self explanatory
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

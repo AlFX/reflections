@@ -14,8 +14,8 @@ When I want to change my code design but not sure about the outcome
 How do the diagrams help you visualize the branch structure?
 Self explanatory
 
-What is the result of merging two branches together? Why do we represent it in
-the diagram the way we do?
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Because it is clearer to understand
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
